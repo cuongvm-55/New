@@ -33,6 +33,7 @@ public class HelloworldUI extends UI {
 				layout.addComponent(new Label("Thank you for clicking"));
 			}
 		});
+		
 		layout.addComponent(button);
 	}
 
